@@ -1,0 +1,16 @@
+PODS:
+  - BadgeSwift (7.0.0)
+
+DEPENDENCIES:
+  - BadgeSwift (~> 7.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BadgeSwift
+
+SPEC CHECKSUMS:
+  BadgeSwift: 5cfacfad916d85e2f68d93dbb9ade4e9555903da
+
+PODFILE CHECKSUM: 17c18cf5df7a75076d8fa1ddee5dceb2fa7e6384
+
+COCOAPODS: 1.5.3
